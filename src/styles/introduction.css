@@ -1,0 +1,24 @@
+.introduction {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 70vh;
+    width: 100%;
+    background-color: #4158D0;
+    background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+
+}
+
+
+.brown {
+    color: brown;
+}
+
+.duolingo {
+    color: #58cc02
+}
+
+.info {
+    font-size: 5vh;
+    color: #4b4b4b;
+}

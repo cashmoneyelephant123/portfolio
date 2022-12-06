@@ -1,0 +1,23 @@
+@import url(//db.onlinewebfonts.com/c/092c449c2b2bc64e9c6bbe8a7b9b291f?family=DIN+Next);
+
+@font-face {
+    font-family: "DIN Next";
+    src: url("//db.onlinewebfonts.com/t/092c449c2b2bc64e9c6bbe8a7b9b291f.eot");
+    src: url("//db.onlinewebfonts.com/t/092c449c2b2bc64e9c6bbe8a7b9b291f.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/092c449c2b2bc64e9c6bbe8a7b9b291f.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/092c449c2b2bc64e9c6bbe8a7b9b291f.woff") format("woff"), url("//db.onlinewebfonts.com/t/092c449c2b2bc64e9c6bbe8a7b9b291f.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/092c449c2b2bc64e9c6bbe8a7b9b291f.svg#DIN Next") format("svg");
+}
+
+@font-face {
+    font-family: 'feather';
+    src: url('../assets/feather_bold_by_typicalbro44_dee263c.ttf');
+}
+
+.explanation {
+    height: 30%;
+    background-image: #58cc02
+}
+
+.headline {
+    font-family: feather, sans-serif;
+    color: #4b4b4b;
+    text-transform: lowercase;
+}

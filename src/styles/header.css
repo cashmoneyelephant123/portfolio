@@ -1,0 +1,11 @@
+.header-container {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    height: 10vh;
+}
+
+.name {
+    margin: 2%;
+    color: #777;
+}

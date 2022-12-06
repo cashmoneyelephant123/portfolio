@@ -1,0 +1,11 @@
+.project-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    height: 100vh;
+}
+
+.projects {
+    text-align: center;
+    font-size: 4vh;
+}
