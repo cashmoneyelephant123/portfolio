@@ -7,13 +7,35 @@
 }
 
 
-.explanation-container {
+#duolingo-explanation-container {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
     align-items: center;
     height: 40vh;
     background-color: #58cc02;
+    color: #fff;
+    font-family: DIN Next, sans-serif
+}
+
+#nba-explanation-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    height: 40vh;
+    background-color: #17408b;
+    color: #fff;
+    font-family: DIN Next, sans-serif
+}
+
+#react-lab-explanation-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    height: 40vh;
+    background-color: #2ccce4;
     color: #fff;
     font-family: DIN Next, sans-serif
 }

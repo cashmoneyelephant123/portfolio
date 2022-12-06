@@ -10,7 +10,6 @@ export default function Home() {
             <Introduction />
             <ProjectDisplay />
             <Footer />
-            {/* <Header /> */}
         </div>
     )
 }

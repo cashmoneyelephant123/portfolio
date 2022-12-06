@@ -4,9 +4,10 @@ export default function ProjectIntro({
     title,
     application,
     text,
+    id
 }) {
     return (
-        <div className="explanation-container">
+        <div id={id}>
             <div>
                 <h1 className='title'>{title}</h1>
                 <p className='application'>{application}</p>

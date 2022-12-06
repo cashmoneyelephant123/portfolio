@@ -15,8 +15,8 @@ export default function ProjectDisplay({
             </h2>
             <div className="project-container">
                 <ProjectCard projectName={"Duolingo Feed"} projectImage={bird} link="/feed" id='duolingo-card' />
-                <ProjectCard projectName={"Development"} projectImage={logo} />
-                <ProjectCard projectName={"React Lab"} projectImage={react} />
+                <ProjectCard projectName={"Development"} projectImage={logo} link="/nba" id='nba-card' />
+                <ProjectCard projectName={"React Lab"} projectImage={react} link="/react-lab" id='nba-card' />
                 <ProjectCard projectName={"Flutter Lab"} projectImage={flutter} />
             </div>
         </div>
