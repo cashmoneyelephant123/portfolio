@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/cashmoneyelephant123/portfolio/static/css/main.06dc1fbc.css",
-    "main.js": "/cashmoneyelephant123/portfolio/static/js/main.f2018947.js",
-    "static/js/787.1ed0c42c.chunk.js": "/cashmoneyelephant123/portfolio/static/js/787.1ed0c42c.chunk.js",
-    "static/media/intro-background.jpg": "/cashmoneyelephant123/portfolio/static/media/intro-background.172a68872f109dfecbea.jpg",
-    "static/media/feature_cards.png": "/cashmoneyelephant123/portfolio/static/media/feature_cards.b1df9001470bb7dfbf51.png",
-    "static/media/new_feed.png": "/cashmoneyelephant123/portfolio/static/media/new_feed.a1378d519fff40602e01.png",
-    "static/media/feed1.png": "/cashmoneyelephant123/portfolio/static/media/feed1.d8d52a01e4e1bfe1fb7d.png",
-    "static/media/bird.png": "/cashmoneyelephant123/portfolio/static/media/bird.dae630ad751534e69187.png",
-    "static/media/blue_intro2.png": "/cashmoneyelephant123/portfolio/static/media/blue_intro2.d94f08ad521ebff1ff94.png",
-    "static/media/old_kudos.png": "/cashmoneyelephant123/portfolio/static/media/old_kudos.6b9e12d41734910ea662.png",
-    "static/media/purple_intro.png": "/cashmoneyelephant123/portfolio/static/media/purple_intro.13af655f7719c2e8f3b2.png",
-    "static/media/blue_intro1.png": "/cashmoneyelephant123/portfolio/static/media/blue_intro1.6e3587f75e24b5cd2444.png",
-    "static/media/nba-logo-transparent.png": "/cashmoneyelephant123/portfolio/static/media/nba-logo-transparent.fb65b6aa3a203cca2dd7.png",
-    "static/media/feather_bold_by_typicalbro44_dee263c.ttf": "/cashmoneyelephant123/portfolio/static/media/feather_bold_by_typicalbro44_dee263c.270357e584e164c06010.ttf",
-    "static/media/react.png": "/cashmoneyelephant123/portfolio/static/media/react.44319306359c7112276d.png",
-    "static/media/linkedin.png": "/cashmoneyelephant123/portfolio/static/media/linkedin.35b30686d9a6e7fe5f7a.png",
-    "index.html": "/cashmoneyelephant123/portfolio/index.html",
-    "main.06dc1fbc.css.map": "/cashmoneyelephant123/portfolio/static/css/main.06dc1fbc.css.map",
-    "main.f2018947.js.map": "/cashmoneyelephant123/portfolio/static/js/main.f2018947.js.map",
-    "787.1ed0c42c.chunk.js.map": "/cashmoneyelephant123/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/portfolio/static/css/main.123b54d3.css",
+    "main.js": "/portfolio/static/js/main.3aa6bc92.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/intro-background.jpg": "/portfolio/static/media/intro-background.172a68872f109dfecbea.jpg",
+    "static/media/feature_cards.png": "/portfolio/static/media/feature_cards.b1df9001470bb7dfbf51.png",
+    "static/media/new_feed.png": "/portfolio/static/media/new_feed.a1378d519fff40602e01.png",
+    "static/media/feed1.png": "/portfolio/static/media/feed1.d8d52a01e4e1bfe1fb7d.png",
+    "static/media/bird.png": "/portfolio/static/media/bird.dae630ad751534e69187.png",
+    "static/media/blue_intro2.png": "/portfolio/static/media/blue_intro2.d94f08ad521ebff1ff94.png",
+    "static/media/old_kudos.png": "/portfolio/static/media/old_kudos.6b9e12d41734910ea662.png",
+    "static/media/purple_intro.png": "/portfolio/static/media/purple_intro.13af655f7719c2e8f3b2.png",
+    "static/media/blue_intro1.png": "/portfolio/static/media/blue_intro1.6e3587f75e24b5cd2444.png",
+    "static/media/nba-logo-transparent.png": "/portfolio/static/media/nba-logo-transparent.fb65b6aa3a203cca2dd7.png",
+    "static/media/feather_bold_by_typicalbro44_dee263c.ttf": "/portfolio/static/media/feather_bold_by_typicalbro44_dee263c.270357e584e164c06010.ttf",
+    "static/media/react.png": "/portfolio/static/media/react.44319306359c7112276d.png",
+    "static/media/linkedin.png": "/portfolio/static/media/linkedin.35b30686d9a6e7fe5f7a.png",
+    "index.html": "/portfolio/index.html",
+    "main.123b54d3.css.map": "/portfolio/static/css/main.123b54d3.css.map",
+    "main.3aa6bc92.js.map": "/portfolio/static/js/main.3aa6bc92.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.06dc1fbc.css",
-    "static/js/main.f2018947.js"
+    "static/css/main.123b54d3.css",
+    "static/js/main.3aa6bc92.js"
   ]
 }
