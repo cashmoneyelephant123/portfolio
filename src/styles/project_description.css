@@ -34,7 +34,7 @@
 }
 
 .description-image {
-    width: 50%;
+    width: 75%;
 }
 
 .problem {
@@ -43,8 +43,4 @@
 
 .motivation {
     width: 80%;
-}
-
-#old-kudos {
-    width: 100%;
 }

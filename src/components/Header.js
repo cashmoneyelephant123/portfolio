@@ -7,7 +7,7 @@ export default function Header({
     return (
         <Link to='/' style={{ textDecoration: 'none' }}>
             <div className="header-container">
-                <h1 className='name'>Pedro Monteiro Borges</h1>
+                <h1 className='name'>cashmoneyelephant123</h1>
             </div>
         </Link>
     )

@@ -6,11 +6,16 @@ export default function ProjectDescription({
     problem,
     motivation,
     results,
-    images
+    images,
+    link
 }) {
-    const resultImgs = results.map(i =>
-        <img className="result-image" src={i}></img>
-    )
+
+    const resultImgs =
+        results.map(i =>
+            <a href={link}>
+                <img className="result-image" src={i}></img>
+            </a>
+        )
 
     return (
         <div>
@@ -23,13 +28,13 @@ export default function ProjectDescription({
             <h1 className='headline'>Problem</h1>
             <div className='problem'>
                 <p className='description'>{problem}</p>
-                <img id='old-kudos' className='description-image' src={images[1]}></img>
+                <img className='description-image' src={images[1]}></img>
             </div>
 
             <h1 className='headline'>Motivation</h1>
             <div className='motivation'>
                 <p className='description'>{motivation}</p>
-                <img id='new-kudos' className='description-image' src={images[2]}></img>
+                <img className='description-image' src={images[2]}></img>
             </div>
 
             <div className='results'>

@@ -39,7 +39,8 @@ const descriptionData = {
         feed1,
         oldKudos,
         featureCards
-    ]
+    ],
+    links: undefined
 }
 
 export default function Duolingo({

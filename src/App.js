@@ -4,6 +4,7 @@ import Duolingo from './components/Duolingo';
 import Home from './components/Home';
 import NBA from './components/NBA';
 import ReactLab from './components/ReactLab';
+import FlutterLab from './components/FlutterLab';
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
         <Route path="/feed" element={<Duolingo />} />
         <Route path="/nba" element={<NBA />} />
         <Route path="/react-lab" element={<ReactLab />} />
+        <Route path="/flutter-lab" element={<FlutterLab />} />
       </Routes>
     </div>
   );
